@@ -5,8 +5,7 @@ permalink: /faq/
 navigation_weight: 1
 order: 2
 ---
-
-#### What is CUWiP?
+## What is CUWiP?
 
 The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day regional conferences for undergraduate physics majors. The 2018 conferences will be held January 12-14.  
 
@@ -50,7 +49,7 @@ First, make sure you submit your application by the deadline. Second, make sure 
 
 ### COST AND FUNDING
 
-####How much does the conference cost?
+#### How much does the conference cost?
 
 Students who are accepted to attend the conference must pay a one-time registration fee of $45, which helps offset some of the cost of the conference, including all lodging and meals.  If you cannot afford the registration fee and your department/college is unable to help, you may request a fee waiver by submitting a statement attesting to your financial need and verifying that department or university funds are not available.  Further details will be provided when you are invited to register for the conference. You must request a fee waiver at least two days in advance of registering.
 
